@@ -1,1 +1,5 @@
 credentials.py
+data/celeb.csv
+data/leaders.csv
+data/news_outlet.csv
+data/parties.csv

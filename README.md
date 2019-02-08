@@ -25,6 +25,15 @@ Extra Libraries Required (added as anaconda xml)
 - [ ] Celebrity Endorsements : When do celebrities endorse the governemnt parties . 
 
 
+## How it works 
+1. __SUBJECTS__ : Subjects are specific user groups on twitter some examples are _celebrities_ , _party learders_ , _political parties_ and even _news outlets_ . 
+   - Each subject has a csv file which is populated by members of the group . For instance the news outlet csv will be populated by the twitter handles of News Organisations . 
+   - Each subject will be used to import specific groups into dictionaries and then consequently run context based tests . For instance : We can try to find the inclination of each news source based on their tweets . The same can be done for celebrities as well . 
+   TO TEST THIS FEATURE , we have tried to find the affiliation of party leaders to their own parties and if verified we can assume that our method works .  
+
+
+
+
 ## Find the bot here 
 
   https://twitter.com/ElectionY
