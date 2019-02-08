@@ -1,4 +1,4 @@
-![Python 3.5](https://img.shields.io/badge/python-3.5.6-blue.svg)
+![Python 3.7.2](https://img.shields.io/badge/python-3.7.2-blue.svg)
 ![License](https://img.shields.io/badge/license-GPLv3-blue.svg)
 
 
