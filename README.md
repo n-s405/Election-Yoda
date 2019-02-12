@@ -16,6 +16,7 @@ Extra Libraries Required (added as anaconda xml)
 3. Pandas - Data Management 
 
 ## To Do List 
+- [ ] Get the data from Tweeter using Tweepy api and store in CSV/JSON file. 
 - [ ] Read the data using pandas from a CSV/JSON file 
 - [ ] See engagement (in terms of tweets/retweets) for every party separately .
 - [ ] Keywords : Most talked about issues for different parties .
